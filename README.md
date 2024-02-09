@@ -12,15 +12,19 @@ Datasets are available at :
 
 http://jmcauley.ucsd.edu/data/amazon/
 
-Please create a directory "datasets" with the same level as main.py
-Download the dataset and save it in the corresponding folder under the datasets directory.
-The file directory is as follows:
-------datesets
-      ------Amazon_KDD
-      ------Amazon_Beauty
-------main.py
-------util.py
-------model.py
+Please download the corresponding dataset and save it in the corresponding folder under the dataset directory.
+
+```
+├─.idea
+├─datasets
+│  ├─Amazon_KDD
+│  └─Amazon_Beauty
+├─main.py
+├─util.py
+├─model.py
+```
+
+
 
 ###  Run the model
 
