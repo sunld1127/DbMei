@@ -12,7 +12,7 @@ Datasets are available at :
 
 http://jmcauley.ucsd.edu/data/amazon/
 
-Please download the corresponding dataset and save it in the corresponding folder under the dataset directory.
+Please download the corresponding dataset and save it in the corresponding folder under the datasets directory.
 
 ###  Run the model
 
